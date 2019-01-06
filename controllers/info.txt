@@ -1,0 +1,8 @@
+
+Info
+====
+
+- Auth.php is the original controller as reference.
+- Iauth.php  fuelified controller. Instead of `$this->ion_auth->logged_in()` is uses `$this->fuel->iauth->logged_in()` since the library/Fuel_iauth.php wraps around the original Ion_auth.php library.
+  Also the render function is using the fuel page render method.
+

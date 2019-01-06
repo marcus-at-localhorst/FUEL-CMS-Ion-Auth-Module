@@ -1,0 +1,7 @@
+
+Info
+====
+
+- Iauth_groups_model.php - fuel cms groups model
+- Iauth_users_model.php - fuel cms users model (change password etc)
+- Ion_auth_model.php - original model, used in libraries/Ion_auth.php

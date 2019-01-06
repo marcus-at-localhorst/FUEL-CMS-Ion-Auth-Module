@@ -1,0 +1,6 @@
+
+Info
+====
+
+- /auth/* are the original ion_auth templates: https://github.com/benedmunds/CodeIgniter-Ion-Auth/tree/3/views/auth
+- /iauth/* is the fuelified version

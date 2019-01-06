@@ -1,0 +1,12 @@
+
+Info
+====
+
+- ion_auth.php is included in iauth.php - no need to reference it somewehere else.
+- language_codes.php is just an array of short lang codes to idioms as they are used in Fuel CMS for languages
+
+en => english
+de => german
+
+if you use short codes in your frontend then you need to translate those in order to share one language file an pull the right one in frontend and backend.
+language_codes.php is used in libraries/Fuel_iauth.php
