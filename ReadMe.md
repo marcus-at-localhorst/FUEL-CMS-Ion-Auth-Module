@@ -21,6 +21,7 @@ $this->fuel->iauth->is_admin(),
 $this->fuel->iauth->get_user_id()
 ```
 
+Access frontend login `https://yourproject/auth` or `https://yourproject/en/auth`
 
 ## Possible Pitfalls
 I tried to keep all Ion Auth code intact and change as little as possible (see also info.txt in folders).
