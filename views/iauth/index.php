@@ -1,1 +1,1 @@
-<?php !d($user);?>
+<?php var_dump($user);?>
